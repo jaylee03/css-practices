@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+.poster {
+    color: white;
+    width: 50%;
+    margin: 100px;
+    margin-left: 25%;
+    font-family: cursive;
+    text-align: center;
+}
+.meme {
+    border: 5px solid white;
+    width: 100%;
+}
